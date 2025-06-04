@@ -9,7 +9,13 @@ int main() {
     cout << c - d << endl;
 
     d = 3;
-    cout << c * d;
+    cout << c * d << "\n";
+
+    float x = 2.5;
+    cout << x / 2 << "\n";
+
+    char y = 'R';
+    cout << y << endl;
 
 
 
