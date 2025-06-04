@@ -18,5 +18,5 @@ int main() {
     char character;
     cout << "Write a character :";
     cin >> character;
-    cout << "The ascii value of " << character << " is" << (int)character;
+    cout << "The ascii value of " << character << " is " << (int)character;
 }
